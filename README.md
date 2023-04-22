@@ -1,1 +1,1 @@
-# Notes_about_Github
+# Заметки про GitHub
