@@ -1,3 +1,3 @@
 # Заметки про GitHub
 
-[[github]]
+[github](github.md)
