@@ -14,3 +14,5 @@ Sure, I'd be happy to help you get started with GitHub! Here are some basic step
     
 
 This is just a basic overview of how to use GitHub. There is a lot more that you can do with the platform, including using issues to track bugs and feature requests, contributing to open source projects, and collaborating on projects with other people. I recommend checking out the GitHub documentation for more in-depth information and tutorials.
+
+[Вернуться на Карту контента](Карта контента.md)
