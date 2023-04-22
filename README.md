@@ -1,3 +1,3 @@
-# Заметки про GitHub
+# Карта контента
 
-[github](github.md)
+- [Get started with GitHub](github.md)
